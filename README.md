@@ -1,7 +1,8 @@
 # real-world-vue
 This repo is a fork of the [Vue Mastery course](https://www.vuemastery.com/courses/real-world-vue3), [Real World Vue 3 app](https://github.com/Code-Pop/Real-World_Vue-3).
 
-2. [Vue CLI - Creating the project](https://us-central1-gotvotes-71a47.cloudfunctions.net/getVideo/video/1)
+## 2. Vue CLI - Creating the project
+[![Vue CLI - Creating the project](https://firebasestorage.googleapis.com/v0/b/gotvotes-71a47.appspot.com/o/images%2Fvideo-play-btn-small.png?alt=media&token=f455fef9-f9b9-461c-8cd6-69b98bec5909)](https://us-central1-gotvotes-71a47.cloudfunctions.net/getVideo/video/1)  
 
 **Important!** Watch the video linked above before moving on.
 
@@ -165,3 +166,9 @@ Let’s take a look at this process more visually:
 ---
 ### Wrapping Up
 You should now have an understanding of how we can create a Vue project and how to manage it from the Vue UI. We also explored the project that was created for us to get ready to start customizing this project. In the next lesson, we’ll build our first single file .vue component.
+
+
+
+[<< Previous lesson](https://github.com/RoelZ/Vue-Mastery-Vue-3/tree/master)
+ | 
+ [Next lesson >>](https://github.com/RoelZ/Vue-Mastery-Vue-3/tree/L3)
