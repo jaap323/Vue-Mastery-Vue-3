@@ -171,4 +171,4 @@ You should now have an understanding of how we can create a Vue project and how 
 
 [<< Previous lesson](https://github.com/RoelZ/Vue-Mastery-Vue-3/tree/master)
  | 
- [Next lesson >>](https://github.com/RoelZ/Vue-Mastery-Vue-3/tree/L3)
+ [Next lesson >>](https://github.com/RoelZ/Vue-Mastery-Vue-3/tree/L3-start)
