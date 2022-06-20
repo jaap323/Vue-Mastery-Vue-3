@@ -135,7 +135,7 @@ export default {
     }
   },
   created() {
-    axios.get('https://my-json-server.typicode.com/Code-Pop/Real-World_Vue-3/events')
+    axios.get('https://my-json-server.typicode.com/RoelZ/Vue-Mastery-Vue-3/events')
       .then(response => {
         this.events = response.data
       })
@@ -168,7 +168,7 @@ A cleaner and more scalable solution is to modularize our API code into a servic
 import axios from 'axios'
 
 const apiClient = axios.create({
-  baseURL: 'https://my-json-server.typicode.com/Code-Pop/Real-World_Vue-3',
+  baseURL: 'https://my-json-server.typicode.com/RoelZ/Vue-Mastery-Vue-3',
   withCredentials: false,
   headers: {
     Accept: 'application/json',
