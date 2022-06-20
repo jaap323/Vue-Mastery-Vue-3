@@ -19,7 +19,7 @@ So our tasks in this lesson include:
 - Refactor our API code into a service layer
 
 ## Our Mock Database
-To create our mock database, we’ll be using a self-written API service, which is a simple solution that requires no installation. We just need a Github repo with a **db.json** file in it. If you’ve been coding along, you may have already noticed that I’ve added a **db.json** file to the course’s repo:
+To create our mock database, we’ll be using a [My JSON Server](https://my-json-server.typicode.com/), this is an API as a service which is a simple solution that requires no installation. We just need a Github repo with a **db.json** file in it. If you’ve been coding along, you may have already noticed that I’ve added a **db.json** file to the course’s repo:
 
 📄 **db.json**
 ```json
@@ -62,7 +62,9 @@ This code should look very familiar to you, since it’s a JSON version of the `
 
 In order to access our mock server, we’ll go to the url:
 
-[https://us-central1-gotvotes-71a47.cloudfunctions.net/getEvents/](https://us-central1-gotvotes-71a47.cloudfunctions.net/getEvents/)
+[https://my-json-server.typicode.com/RoelZ/Vue-Mastery-Vue-3/](https://my-json-server.typicode.com/RoelZ/Vue-Mastery-Vue-3/)
+
+Adding ‘**/events**’ to the end of the URL allows us to target the events data specifically, so my-json-server.typicode.com/{GithubUserName}/{RepoName}/events is the URL we’ll soon use to make our call.
 
 ## Axios for API Calls
 Now that we have our mock database and know what URL to call out to, we’re ready to install a library to help us make API calls. We’ll be using the [Axios library](https://github.com/axios/axios), which we can install as a dependency from the terminal or by using the Vue UI.
