@@ -2,7 +2,7 @@
 This repo is a fork of the [Vue Mastery course](https://www.vuemastery.com/courses/real-world-vue3), [Real World Vue 3 app](https://github.com/Code-Pop/Real-World_Vue-3).
 
 ## 5. Vue Router Essentials
-[![Vue Router Essentials](https://firebasestorage.googleapis.com/v0/b/gotvotes-71a47.appspot.com/o/images%2Fvideo-play-btn-small.png?alt=media&token=f455fef9-f9b9-461c-8cd6-69b98bec5909)](https://us-central1-gotvotes-71a47.cloudfunctions.net/getVideo/video/4)  
+[![Vue Router Essentials](https://firebasestorage.googleapis.com/v0/b/gotvotes-71a47.appspot.com/o/images%2Fvideo-play-btn-small.png?alt=media&token=f455fef9-f9b9-461c-8cd6-69b98bec5909)](https://firebasestorage.googleapis.com/v0/b/gotvotes-71a47.appspot.com/o/videos%2F5.api-calls-with-axios.mp4?alt=media&token=b0db4e1c-f570-46ff-bb97-26dffe77c94e)  
 
 **Important!** Watch the video linked above before moving on.
 
