@@ -2,7 +2,7 @@
 This repo is a fork of the [Vue Mastery course](https://www.vuemastery.com/courses/real-world-vue3), [Real World Vue 3 app](https://github.com/Code-Pop/Real-World_Vue-3).
 
 ## 3. Single File Components
-[![Single File Components](https://firebasestorage.googleapis.com/v0/b/gotvotes-71a47.appspot.com/o/images%2Fvideo-play-btn-small.png?alt=media&token=f455fef9-f9b9-461c-8cd6-69b98bec5909)](https://us-central1-gotvotes-71a47.cloudfunctions.net/getVideo/video/2)  
+[![Single File Components](https://firebasestorage.googleapis.com/v0/b/gotvotes-71a47.appspot.com/o/images%2Fvideo-play-btn-small.png?alt=media&token=f455fef9-f9b9-461c-8cd6-69b98bec5909)](https://firebasestorage.googleapis.com/v0/b/gotvotes-71a47.appspot.com/o/videos%2F3.single-file-components.mp4?alt=media&token=8087ab82-a4dd-4354-9703-58c8db7aefb3)  
 
 **Important!** Watch the video linked above before moving on.
 
